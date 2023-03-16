@@ -24,3 +24,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Check my works into playstore:
+
+1.  https://play.google.com/store/apps/details?id=com.rezwan.usbotg.usbotgchecker.usbotgcheckerpro
+2.  https://play.google.com/store/apps/details?id=com.rezwan.duplicatecontacts
+3.  https://play.google.com/store/apps/details?id=com.rezwan.allahnames.the99namesofallah
+4.  https://play.google.com/store/apps/details?id=com.rezwan.routeradmin.wifisetup
+5.  https://play.google.com/store/apps/details?id=com.agronxt.farmer
+6.  https://play.google.com/store/apps/details?id=com.agronxt.business
+7.  https://play.google.com/store/apps/details?id=com.agronxt.bhuparikshak
+8.  https://play.google.com/store/apps/details?id=com.veecorp.zambokiosk
+9.  https://play.google.com/store/apps/details?id=com.mikrobilling.myisp
+10. https://play.google.com/store/apps/details?id=com.fruitvendorapp
+11. https://play.google.com/store/apps/details?id=com.lovfreshuser
+12. https://play.google.com/store/apps/details?id=com.razinsoft.uci
+13. https://play.google.com/store/apps/details?id=com.razinsoft.eLaundry
+14. https://play.google.com/store/apps/details?id=com.meya
+15. https://play.google.com/store/apps/details?id=com.theironman
+16. https://play.google.com/store/apps/details?id=tech.shikho.android
+17. https://play.google.com/store/apps/details?id=com.oboideas.callme
+18. https://play.google.com/store/apps/details?id=com.tripstars.user
+19. https://play.google.com/store/apps/details?id=com.tripstars.provider
+20. https://play.google.com/store/apps/details?id=com.tripstars.shop
+21. https://play.google.com/store/apps/details?id=com.ezzelink
+22. https://play.google.com/store/apps/details?id=com.goldStarCustomer
+23. https://play.google.com/store/apps/details?id=com.dcimc
+24. https://play.google.com/store/apps/details?id=com.eWhiteboard.rcmc
+25. https://play.google.com/store/apps/details?id=com.eWhiteBoard.pmc
+26. https://play.google.com/store/apps/details?id=com.ewb.rdc
+27. https://play.google.com/store/apps/details?id=com.rtchubs.contactoptimizer
+28. https://play.google.com/store/apps/details?id=com.rtchubs.usb.otg.filemanager
+29. https://play.google.com/store/apps/details?id=com.fantasyapps.scanner.snaptocontact
+30. https://play.google.com/store/apps/details?id=com.rtchubs.file.filemanager.filemanagerpro
+31. https://play.google.com/store/apps/details?id=com.rtchubs.snaptotext
+32. https://play.google.com/store/apps/details?id=com.rtchubs.helpforhealthandfood
+33. https://play.google.com/store/apps/details?id=com.amberit.dialer
+34. https://play.google.com/store/apps/details?id=com.fantasyapps.usbotg.usbotgchecker
+35. https://play.google.com/store/apps/details?id=com.fantasyapps.lock.applock.applocker
+36. https://play.google.com/store/apps/details?id=com.full.battery.alarm.ring
+37. https://play.google.com/store/apps/details?id=com.threesixtydev.driver.usb.otg.usbotgchecker
+38. https://play.google.com/store/apps/details?id=com.threesixtydev.routersetuppage
