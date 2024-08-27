@@ -9,6 +9,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rrsaikat&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <hr>
 
+[![](https://visitcount.itsvg.in/api?id=rrsaikat&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!--
 **rrsaikat/RRSaikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
