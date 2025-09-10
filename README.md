@@ -75,6 +75,12 @@ Here are some ideas to get you started:
 * [TripStars Shop](https://play.google.com/store/apps/details?id=com.tripstars.shop)
 * [Zambo Kiosk](https://play.google.com/store/apps/details?id=com.veecorp.zambokiosk)
 
+
+#### 🚖 Fintech & iBanking
+
+* [Zambo Kiosk](https://play.google.com/store/apps/details?id=com.veecorp.zambokiosk)
+
+
 #### 🏥 Health & Lifestyle
 
 * [Help for Health & Food](https://play.google.com/store/apps/details?id=com.rtchubs.helpforhealthandfood)
