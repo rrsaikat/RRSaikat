@@ -58,10 +58,11 @@ Here are some ideas to get you started:
 
 #### 🌾 Agriculture & Business
 
-* [AgroNxt BhuParikshak](https://play.google.com/store/apps/details?id=com.agronxt.bhuparikshak)
-* [AgroNxt Farmer](https://play.google.com/store/apps/details?id=com.agronxt.farmer)
-* [AgroNxt Business](https://play.google.com/store/apps/details?id=com.agronxt.business)
-* [AgroLens](https://play.google.com/store/apps/details?id=com.agronxt.agrolens)
+* [ScaNxt BhuParikshak](https://play.google.com/store/apps/details?id=com.agronxt.bhuparikshak)
+* [ScaNxt Farmer](https://play.google.com/store/apps/details?id=com.agronxt.farmer)
+* [ScaNxt Business](https://play.google.com/store/apps/details?id=com.agronxt.business)
+* [ScaNxt AgroLens](https://play.google.com/store/apps/details?id=com.agronxt.agrolens)
+* [ScaNxt Partners](https://play.google.com/store/apps/details?id=com.scanxt.partners)
 
 #### 🛒 E-Commerce & Food
 
@@ -159,5 +160,7 @@ Here are some ideas to get you started:
 47. [https://play.google.com/store/apps/details?id=com.threesixtydev.driver.usb.otg.usbotgchecker](https://play.google.com/store/apps/details?id=com.threesixtydev.driver.usb.otg.usbotgchecker)
 48. [https://play.google.com/store/apps/details?id=com.threesixtydev.routersetuppage](https://play.google.com/store/apps/details?id=com.threesixtydev.routersetuppage)
 49. [https://play.google.com/store/apps/details?id=com.rezwan.volumeanalyzer](https://play.google.com/store/apps/details?id=com.rezwan.volumeanalyzer)
+50. ScaNxt Partners - Upcoming...
+51. RewardsX - Upcoming....
 ---
 
