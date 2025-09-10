@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 
 #### 🛒 E-Commerce & Food
 
-* [RewardsX](https://play.google.com/store/apps/details?id=com.rewardsx.consumerapp)
 * [Fruit Vendor](https://play.google.com/store/apps/details?id=com.fruitvendorapp)
 * [LovFresh](https://play.google.com/store/apps/details?id=com.lovfreshuser)
 
@@ -78,6 +77,7 @@ Here are some ideas to get you started:
 
 #### 🚖 Fintech & iBanking
 
+* [RewardsX](https://play.google.com/store/apps/details?id=com.rewardsx.consumerapp)
 * [Zambo Kiosk](https://play.google.com/store/apps/details?id=com.veecorp.zambokiosk)
 
 
