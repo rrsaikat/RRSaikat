@@ -27,12 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perfect 👍 If you want to showcase these apps **on your GitHub profile**, the best way is a clean, well-structured **Markdown portfolio section** in your `README.md`. That way it looks professional, loads fast, and is easy for recruiters/clients to scan.
-
-Here’s a polished version tailored for your GitHub profile:
-
----
-
 # 📱 Published Apps
 
 ### 🏪 App Store (iOS)
