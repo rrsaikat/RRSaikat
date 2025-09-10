@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 * [The 99 Names of Allah](https://play.google.com/store/apps/details?id=com.rezwan.allahnames.the99namesofallah)
 * [Battery Alarm](https://play.google.com/store/apps/details?id=com.full.battery.alarm.ring)
 * [App Lock](https://play.google.com/store/apps/details?id=com.fantasyapps.lock.applock.applocker)
+* [Volume Analyzer-Audio Loudness](https://play.google.com/store/apps/details?id=com.rezwan.volumeanalyzer)
 
 #### 🌾 Agriculture & Business
 
@@ -157,6 +158,6 @@ Here are some ideas to get you started:
 46. [https://play.google.com/store/apps/details?id=com.full.battery.alarm.ring](https://play.google.com/store/apps/details?id=com.full.battery.alarm.ring)
 47. [https://play.google.com/store/apps/details?id=com.threesixtydev.driver.usb.otg.usbotgchecker](https://play.google.com/store/apps/details?id=com.threesixtydev.driver.usb.otg.usbotgchecker)
 48. [https://play.google.com/store/apps/details?id=com.threesixtydev.routersetuppage](https://play.google.com/store/apps/details?id=com.threesixtydev.routersetuppage)
-
+49. [https://play.google.com/store/apps/details?id=com.rezwan.volumeanalyzer](https://play.google.com/store/apps/details?id=com.rezwan.volumeanalyzer)
 ---
 
